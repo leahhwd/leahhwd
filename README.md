@@ -1,20 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**leahhwd/leahhwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Leah 
 
-Here are some ideas to get you started:
+## I build applications that solve real-world issues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Most of my time is spent on:
+- building full-stack applications using Angular and Node.
+- Utilizing and integrating AI
+- Browser extensions and tools
 
+### My current project(s):
+- AI powered chrome extension for safe browsing.
+
+### My Background
+
+### What interests me:
+
+### Things I enjoy:
+
+
+### Languages I like to use:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahhwd&layout=compact&theme=tokyonight" />
+</div>
+
+### Fun Facts about me:
+
 </div>
