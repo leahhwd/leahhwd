@@ -1,5 +1,7 @@
 <div align="center">
 
+![Dreamcore Banner](assets/dream.gif)
+
 # Hi 👋 I'm Leah 
 
 ## I build applications that solve real-world issues.
