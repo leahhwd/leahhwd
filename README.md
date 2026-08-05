@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Leah 
 
-## I build applications that solve real-world issues.
+## I'm usually somewhere between the clouds and JavaScript.
 
 ### Most of my time is spent on:
 - building full-stack applications using Angular and Node.
