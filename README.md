@@ -52,12 +52,13 @@ I'm a full-stack web developer who loves building things that are<br>
 
 <div align="center">
 ✦ Find Me Somewhere Around the Internet ✦<br>
-  <a href="https://lmkwebstudio.com" style="text-decoration: none; border: 2px solid #90D5FF; padding: 8px 16px; border-radius: 8px;">
+  <a href="https://lmkwebstudio.com">
+ <img src="https://img.shields.io/badge/Portfolio-2F4F3E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
     🌐 My Portfolio
   </a><br>
 
-<a href="https://www.linkedin.com/in/lmkdev/" style="text-decoration: none; border: 2px solid #FF8DA1; padding: 8px 16px; border-radius: 8px;">
-    🧑🏽‍💼 LinkedIn
+<a href="https://www.linkedin.com/in/lmkdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF8DA1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
   
 </div>
