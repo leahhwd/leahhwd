@@ -4,7 +4,12 @@
 
 # Hi 👋 I'm Leah 
 
-## I'm usually somewhere between the clouds and JavaScript.
+## ☁️ I'm usually somewhere between the clouds and JavaScript.
+
+`FULL-STACK DEVELOPER` | `ANGULAR` | `NODE.JS` | `JAVASCRIPT`  
+
+</div>
+
 
 ### Most of my time is spent on:
 - building full-stack applications using Angular and Node.
@@ -28,4 +33,4 @@
 
 ### Fun Facts about me:
 
-</div>
+
