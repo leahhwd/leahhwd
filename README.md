@@ -10,7 +10,7 @@
 
 ✦ ─────────────── ☁️ ─────────────── ✦
 
-I'm a full-stack web developer who loves building things that are
+I'm a full-stack web developer who loves building things that are<br>
 **useful, creative, artistic, enjoyable, and occasionally a bit weird.**  
 
 </div>
@@ -48,9 +48,9 @@ I'm a full-stack web developer who loves building things that are
 </div>
 
 ### Facts about me:
-🎓 B.S in Full-Stack Web Development earned 2025
-🐻 Alaska raised
-🏺 Special interest in ancient civilizations
+🎓 B.S in Full-Stack Web Development earned 2025<br>
+🐻 Alaska raised<br>
+🏺 Special interest in ancient civilizations<br>
 
 <div align="center">
 ✦ Find Me Somewhere Around the Internet ✦
