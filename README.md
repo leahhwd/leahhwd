@@ -8,20 +8,25 @@
 
 `FULL-STACK DEVELOPER` | `ANGULAR` | `NODE.JS` | `JAVASCRIPT`  
 
-</div>
-
 ✦ ─────────────── ☁️ ─────────────── ✦
 
 I'm a full-stack web developer who loves building things that are
 **useful, creative, artistic, enjoyable, and occasionally a bit weird.**  
 
-### Most of my time is spent on:
-👩🏽‍💻 Building full-stack applications using Angular and Node
-🤖 Utilizing and integrating AI
-🛜 Browser extensions and tools
-🖼️ Generating wireframes
+</div>
 
+### Most of my time is spent on:
+
+<ul>
+  <li>👩🏽‍💻 Building full-stack applications using Angular and Node</li>
+  <li>🤖 Utilizing and integrating AI</li>
+  <li>🛜 Browser extensions and tools</li>
+  <li> 🖼️ Generating wireframes</li>
+</ul>
+
+<div align="center">
 ✦ ─────────────── ☁️ ─────────────── ✦
+</div>
 
 ### My current project(s):
 - AI powered chrome extension for safe browsing.
@@ -38,7 +43,9 @@ I'm a full-stack web developer who loves building things that are
 - Karma
 - Express.js
 
+<div align="center">
 ✦ ─────────────── ☁️ ─────────────── ✦
+</div>
 
 ### Facts about me:
 🎓 B.S in Full-Stack Web Development earned 2025
@@ -47,8 +54,10 @@ I'm a full-stack web developer who loves building things that are
 
 <div align="center">
 ✦ Find Me Somewhere Around the Internet ✦
-[🌐 Portfolio](https://lmkwebstudio.com) [🧑🏽‍💼 LinkedIn](https://www.linkedin.com/in/lmkdev/)
-
+  <ul>
+    <li>[🌐 Portfolio](https://lmkwebstudio.com)</li> 
+    <li>[🧑🏽‍💼 LinkedIn](https://www.linkedin.com/in/lmkdev/)</li>
+  </ul>
 </div>
 
 
