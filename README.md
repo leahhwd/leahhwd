@@ -17,12 +17,11 @@ I'm a full-stack web developer who loves building things that are<br>
 
 ### Most of my time is spent on:
 
-<ul>
-  <li>👩🏽‍💻 Building full-stack applications using Angular and Node</li>
-  <li>🤖 Utilizing and integrating AI</li>
-  <li>🛜 Browser extensions and tools</li>
-  <li> 🖼️ Generating wireframes</li>
-</ul>
+  👩🏽‍💻 Building full-stack applications using Angular and Node <br>
+  🤖 Utilizing and integrating AI<br>
+  🛜 Browser extensions and tools<br>
+  🖼️ Generating wireframes<br>
+
 
 <div align="center">
 ✦ ─────────────── ☁️ ─────────────── ✦
@@ -53,11 +52,12 @@ I'm a full-stack web developer who loves building things that are<br>
 🏺 Special interest in ancient civilizations<br>
 
 <div align="center">
-✦ Find Me Somewhere Around the Internet ✦
-  <ul>
-    <li>[🌐 Portfolio](https://lmkwebstudio.com)</li> 
-    <li>[🧑🏽‍💼 LinkedIn](https://www.linkedin.com/in/lmkdev/)</li>
-  </ul>
+## ✦ Find Me Somewhere Around the Internet ✦
+  <a href="https://lmkwebstudio.com">
+    🌐 My Portfolio
+  </a><br>
+    [🧑🏽‍💼 LinkedIn](https://www.linkedin.com/in/lmkdev/)
+  
 </div>
 
 
