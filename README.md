@@ -13,6 +13,8 @@
 I'm a full-stack web developer who loves building things that are<br>
 **useful, creative, artistic, enjoyable, and occasionally a bit weird.**  
 
+✦ ─────────────── ☁️ ─────────────── ✦
+
 </div>
 
 ### Most of my time is spent on:
@@ -23,9 +25,6 @@ I'm a full-stack web developer who loves building things that are<br>
   🖼️ Generating wireframes<br>
 
 
-<div align="center">
-✦ ─────────────── ☁️ ─────────────── ✦
-</div>
 
 ### My current project(s):
 - AI powered chrome extension for safe browsing.
@@ -53,9 +52,10 @@ I'm a full-stack web developer who loves building things that are<br>
 
 <div align="center">
 ✦ Find Me Somewhere Around the Internet ✦<br>
-  <a href="https://lmkwebstudio.com" style="text-decoration: none; border: 2px solid #90D5FF; pading: 8px 16px; border-radius: 8px;>
+  <a href="https://lmkwebstudio.com" style="text-decoration: none; border: 2px solid #90D5FF; pading: 8px 16px; border-radius: 8px;">
     🌐 My Portfolio
   </a><br>
+ 
     [🧑🏽‍💼 LinkedIn](https://www.linkedin.com/in/lmkdev/)
   
 </div>
