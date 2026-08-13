@@ -42,18 +42,18 @@ I'm a full-stack web developer who loves building things that are<br>
 - Karma
 - Express.js
 
-<div align="center">
-✦ ─────────────── ☁️ ─────────────── ✦
-</div>
-
 ### Facts about me:
 🎓 B.S in Full-Stack Web Development earned 2025<br>
 🐻 Alaska raised<br>
 🏺 Special interest in ancient civilizations<br>
 
 <div align="center">
-## ✦ Find Me Somewhere Around the Internet ✦
-  <a href="https://lmkwebstudio.com">
+✦ ─────────────── ☁️ ─────────────── ✦
+</div>
+
+<div align="center">
+✦ Find Me Somewhere Around the Internet ✦<br>
+  <a href="https://lmkwebstudio.com" style="text-decoration: none; border: 2px solid #90D5FF; pading: 8px 16px; border-radius: 8px;>
     🌐 My Portfolio
   </a><br>
     [🧑🏽‍💼 LinkedIn](https://www.linkedin.com/in/lmkdev/)
