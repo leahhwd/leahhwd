@@ -27,7 +27,8 @@ I'm a full-stack web developer who loves building things that are<br>
 
 
 ### My current project(s):
-- AI powered chrome extension for safe browsing.
+- A mock festival event site built twice, as a side-by-side experiment:
+  once by hand, and once "vibe coded" with AI assistance.
 
 ### My Tech:
 - Angular
